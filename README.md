@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Hi, I'm Anthony Soon, a software engineer focused on building meaningful and scalable digital solutions.<br><br>I approach software development with discipline, structure, and long-term thinking. I believe in writing clean systems, solving real  problems, and continuously improving through consistent execution.<br><br>Beyond building products, I'm deeply interested in leadership, innovation, and the role technology plays in shaping the future. As I grow, I aim to venture into Artificial Intelligence and Machine Learning to build intelligent systems that create even greater impact.<br><br>Focused on growth. Focused on impact.
+I'm a junior software engineer focused on building meaningful and scalable digital solutions.<br><br>I approach software development with discipline, structure, and long-term thinking. I believe in writing clean systems, solving real problems, and continuously improving through consistent execution.<br><br>Beyond building products, I'm deeply interested in leadership, innovation, and the role technology plays in shaping the future. As I grow, I aim to venture into Artificial Intelligence and Machine Learning to build intelligent systems that create even greater impact.<br><br>Focused on growth. Focused on impact.
 
 
 ## 🌐 Socials:
