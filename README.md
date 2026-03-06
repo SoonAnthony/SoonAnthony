@@ -27,6 +27,6 @@ I'm a junior software engineer focused on building meaningful and scalable digit
 
 
 <!-- Streak stats -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SoonAnthony&theme=dark&hide_border=false&cache_seconds=3600)](https://github.com/users/SoonAnthony/contributions)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SoonAnthony&theme=dark&hide_border=false&cache_seconds=600)](https://github.com/users/SoonAnthony/contributions)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
