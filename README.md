@@ -26,7 +26,7 @@ I'm a junior software engineer focused on building meaningful and scalable digit
 # 📊 GitHub Stats
 
 <!-- Total contributions including all repos -->
-[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoonAnthony&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=3600)](https://github.com/users/SoonAnthony/contributions)
+[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoonAnthony&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=3600)](https://github.com/users/SoonAnthony/contributions)
 
 <!-- Streak stats -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SoonAnthony&theme=dark&hide_border=false&cache_seconds=3600)](https://github.com/users/SoonAnthony/contributions)
